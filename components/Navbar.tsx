@@ -31,7 +31,7 @@ const Navbar = () => {
 							alt={icon.alt}
 							width={28}
 							height={28}
-							className=" object-contain hover:cursor-pointer"
+							className=" object-contain hover:cursor-pointer hover:opacity-70"
 						/>
 					))}
 				</div>
